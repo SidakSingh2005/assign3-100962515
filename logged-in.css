@@ -13,5 +13,7 @@ a:hover
 button, .wp-block-button__link  
     { border-radius: 999px; }
 .wp-block-post { border: 1px solid #ddd; padding: 1.5rem; }
-footer { background-color: #222; color: #fff; }
-p { line-height: 1.8; }
+footer 
+    { background-color: #222; color: #fff; }
+p 
+    { line-height: 1.8; }
