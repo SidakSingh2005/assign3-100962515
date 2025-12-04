@@ -1,5 +1,7 @@
-body { background-color: #f0f5ff; }
-h1 { color: #113366; }
+body    
+    { background-color: #f0f5ff; }
+h1 
+    { color: #113366; }
 h2 { color: #225599; }
 a { color: #0066cc; }
 a:hover { color: #003366; }
