@@ -6,7 +6,8 @@ h2
     { color: #225599; }
 a 
     { color: #0066cc; }
-a:hover { color: #003366; }
+a:hover 
+    { color: #003366; }
 .site-title { font-size: 2.4rem; }
 button, .wp-block-button__link { border-radius: 999px; }
 .wp-block-post { border: 1px solid #ddd; padding: 1.5rem; }
