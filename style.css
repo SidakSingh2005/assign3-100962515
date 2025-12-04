@@ -1,0 +1,35 @@
+/*
+Theme Name: Twenty Twenty Five Child
+Theme URI: http://example.com/twenty-twenty-five-child/
+Description: Child theme for Twenty Twenty Five
+Author: Sidak Singh
+Author URI: http://example.com
+Template: twentytwentyfive
+Version: 1.0.0
+*/
+
+/* Custom Theme Styles */
+body {
+    background-color: #f0f8ff;
+}
+
+h1, h2, h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #23527c;
+}
+
+/* Example: Change link color */
+a {
+    color: #d35400;
+}
+
+/* Example: Make site title bold and larger */
+.site-title {
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+
+
+
+
